@@ -8,7 +8,7 @@ CostLens AI — HR Cost Intelligence Engine
 
 **Name:** Anshul Nautiyal
 **GitHub Username:** ANSHUL-REAL
-**LinkedIn Profile:** https://www.linkedin.com/in/anshul-nautiyal
+**LinkedIn Profile:** https://www.linkedin.com/in/anshul-nautiyal-42760236b
 **GitHub Project Repository:** https://github.com/ANSHUL-REAL/CostlensAI
 
 ---
