@@ -80,7 +80,17 @@ CostLens AI converts calendar meetings into project-level HR expenditure insight
 
 **Deployed Link:** https://costlens-ai.vercel.app
 **Demo Video Link:** *Submitted separately*
-**Screenshots:** *Available on Vercel deployment*
+
+### Screenshots
+
+#### Dashboard Overview
+![Dashboard Overview](./images/dashboard.png)
+
+#### Calendar Ingestion & CSV Import
+![Calendar Ingest](./images/calendar_import.png)
+
+#### Cost Matrix & Department Spend Analysis
+![Spend Analysis](./images/charts.png)
 
 ---
 
